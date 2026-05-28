@@ -1,6 +1,5 @@
 # Structure-Based Grammatical Evolution
 ### Name: Diya Budhia
-### Student Number: 22594044
 
 ## Files
 - NB: csv data file should be stored in a folder called "data"
