@@ -1,5 +1,4 @@
-# COS 710 Assignment 3
-## Structure-Based Grammatical Evolution
+# Structure-Based Grammatical Evolution
 ### Name: Diya Budhia
 ### Student Number: 22594044
 
